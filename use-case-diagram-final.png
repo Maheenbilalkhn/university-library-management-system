@@ -1,0 +1,25 @@
+# Use Case Diagram
+
+## Project Name
+University Library Management System
+
+## Description
+The use case diagram represents the interactions between users and the University Library Management System. It identifies the main actors and the functions they can perform.
+
+## Actors
+1. **Librarian:** Manages books, student records, book issuance, returns, and borrowing records.
+2. **Student:** Searches for books, checks book availability, and views borrowed books.
+
+## Use Cases
+- Login
+- Manage Books
+- Manage Student Records
+- Issue Books
+- Return Books
+- Search Books
+- View Book Availability
+- View Borrowed Books
+- View Borrowing Records
+
+## Purpose
+The purpose of this diagram is to illustrate the system's functionality and show how librarians and students interact with the library management system.
